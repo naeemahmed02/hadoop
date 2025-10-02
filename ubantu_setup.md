@@ -32,7 +32,7 @@ sudo apt update && sudo apt upgrade -y
 ### ✅ 3. **Install Java (Hadoop requires Java)**
 
 ```bash
-sudo apt install openjdk-11-jdk -y
+sudo apt install openjdk-8-jdk -y
 ```
 
 Verify:
